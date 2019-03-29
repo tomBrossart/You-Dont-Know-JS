@@ -1,4 +1,4 @@
-__ my highlights in bold and any notes marked with .... __ 
+__my highlights in bold and any notes marked with ....__ 
 
 # You Don't Know JS (book series)
 
